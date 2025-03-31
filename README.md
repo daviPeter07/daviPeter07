@@ -1,8 +1,6 @@
 ## Olá! Eu sou o Davi Peterson 😁
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-peterson-3a9705260/?trk=opento_sprofile_details)
 
-[![Blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XtD9hB5tEY)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drax-dev173&hide_progress=true)
 
 ## Tecnologias que eu trabalho atualmente

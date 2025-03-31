@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-peterson-3a9705260/?trk=opento_sprofile_details)
 
 ## Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 1º período, com 18 anos de idade e com um grande interesse em desenvolvimento backend. Meu objetivo é criar soluções que resolvam problemas reais e ofereçam uma experiência moderna e humanizada para os usuários. <br />
+Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 1º período, com 18 anos de idade e com um grande interesse em desenvolvimento backend. Meu objetivo é criar soluções que resolvam problemas reais e ofereçam uma experiência moderna e humanizada para os usuários. <br /> <br />
 Tenho como objetivo :  Transformar ideias em projetos que tenham impacto real, ajudando a resolver problemas de forma prática e inovadora.
 
 ## Tecnologias que eu trabalho atualmente

@@ -5,8 +5,6 @@
 Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 1º período, com 18 anos de idade e com um grande interesse em desenvolvimento backend. Meu objetivo é criar soluções que resolvam problemas reais e ofereçam uma experiência moderna e humanizada para os usuários. <br />
 Tenho como objetivo :  Transformar ideias em projetos que tenham impacto real, ajudando a resolver problemas de forma prática e inovadora.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drax-dev173&hide_progress=true)
-
 ## Tecnologias que eu trabalho atualmente
 
 ![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -16,3 +14,5 @@ Tenho como objetivo :  Transformar ideias em projetos que tenham impacto real, a
 ![Skills](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drax-dev173&hide_progress=true)

@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Davi Peterson 😁
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-peterson-3a9705260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davipeterson/)
 
 ## Sobre mim
 Sou um estudante de Análise e Desenvolvimento de Sistemas, atualmente no 1º período, com 18 anos de idade e com um grande interesse em desenvolvimento backend. Meu objetivo é criar soluções que resolvam problemas reais e ofereçam uma experiência moderna e humanizada para os usuários. <br /> <br />

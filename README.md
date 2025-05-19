@@ -15,4 +15,4 @@ Tenho como objetivo :  Transformar ideias em projetos que tenham impacto real, a
 ![Skills](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) <br />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drax-dev173&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daviPeter07&hide_progress=true)

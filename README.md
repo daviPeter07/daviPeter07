@@ -1,4 +1,4 @@
-## Olá! Eu sou o Davi Peterson 😁
+## Olá! Eu sou o Davi Peterson 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davipeterson/)
 
 ## Sobre mim
@@ -24,3 +24,5 @@ Tenho como objetivo :  Transformar ideias em projetos que tenham impacto real, a
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+
+![snake gif](https://github.com/daviPeter07/daviPeter07/blob/output/github-snake-dark.svg)

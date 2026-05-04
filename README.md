@@ -8,35 +8,6 @@ Trabalho criando aplicações web completas, do back-end à interface, com foco 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://davi-peterson.vercel.app)
 [![SyncForge](https://img.shields.io/badge/SyncForge-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://syncforge-business.vercel.app/)
 
----
-
-## Sobre mim
-
-Sou um desenvolvedor de software que atua de forma full stack, criando aplicações rápidas, responsivas e preparadas para crescer.
-
-Comecei minha jornada com PHP em 2024, desenvolvendo projetos pessoais que resolviam problemas reais. Essa base foi essencial para fortalecer minha lógica de programação, disciplina de código e visão prática sobre desenvolvimento de sistemas.
-
-Ao longo da minha trajetória, tive contato com projetos em diferentes contextos, incluindo sistemas de gerenciamento, landing pages multilíngues, aplicações SaaS, integrações com IA e publicação de aplicações. Hoje, além dos estudos e da evolução técnica, também lidero projetos digitais na SyncForge, atuando desde a arquitetura até a entrega final.
-
-Gosto de trabalhar com código limpo, boas práticas, componentização, acessibilidade, SEO e decisões técnicas alinhadas ao valor que o software precisa entregar.
-
----
-
-## Atualmente estudando e evoluindo em
-
-- Arquitetura de software
-- Clean Code
-- SOLID
-- Design Patterns
-- Laravel
-- Node.js
-- Testes automatizados
-- Docker
-- Boas práticas para APIs REST
-- Estruturação de aplicações escaláveis
-
----
-
 ## Stack principal
 
 ### Front-end
@@ -79,6 +50,33 @@ Gosto de trabalhar com código limpo, boas práticas, componentização, acessib
 ![Pest](https://img.shields.io/badge/Pest-1A1A1A?style=for-the-badge&logo=pest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## Sobre mim
+
+Sou um desenvolvedor de software que atua de forma full stack, criando aplicações rápidas, responsivas e preparadas para crescer.
+
+Comecei minha jornada com PHP em 2024, desenvolvendo projetos pessoais que resolviam problemas reais. Essa base foi essencial para fortalecer minha lógica de programação, disciplina de código e visão prática sobre desenvolvimento de sistemas.
+
+Ao longo da minha trajetória, tive contato com projetos em diferentes contextos, incluindo sistemas de gerenciamento, landing pages multilíngues, aplicações SaaS, integrações com IA e publicação de aplicações. Hoje, além dos estudos e da evolução técnica, também lidero projetos digitais na SyncForge, atuando desde a arquitetura até a entrega final.
+
+Gosto de trabalhar com código limpo, boas práticas, componentização, acessibilidade, SEO e decisões técnicas alinhadas ao valor que o software precisa entregar.
+
+---
+
+## Atualmente estudando e evoluindo em
+
+- Arquitetura de software
+- Clean Code
+- SOLID
+- Design Patterns
+- Laravel
+- Node.js
+- Testes automatizados
+- Docker
+- Boas práticas para APIs REST
+- Estruturação de aplicações escaláveis
 
 ---
 

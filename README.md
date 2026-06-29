@@ -1,6 +1,6 @@
 # Olá, eu sou o [Davi Peterson](https://davi-peterson.vercel.app/pt)
 
-Desenvolvedor de Software com 2 anos de experiência no ecossistema JavaScript, TypeScript, PHP, Java e Python, graduando no 4º período de Análise e Desenvolvimento de Sistemas pela UniNorte e founder da [SyncForge](https://syncforge-business.vercel.app/).
+Desenvolvedor de Software atuando nos ecossistema JavaScript, TypeScript, PHP, Java e Python, graduando no 4º período de Análise e Desenvolvimento de Sistemas pela UniNorte e founder da [SyncForge](https://syncforge-business.vercel.app/).
 
 Trabalho criando aplicações web eficientes, acessíveis e preparadas para evoluir, com foco em organização, performance, manutenção e boas práticas. No dia a dia, transito entre diferentes camadas de uma aplicação, incluindo interfaces, experiência do usuário, APIs, autenticação, persistência, cache, filas, integrações e processamento assíncrono.
 

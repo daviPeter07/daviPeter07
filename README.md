@@ -60,16 +60,13 @@ Tenho como principais frameworks Next.js e NestJS, além de experiência com Rea
 ### Ferramentas e testes
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Supertest](https://img.shields.io/badge/Supertest-111827?style=for-the-badge&logo=javascript&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-1A1A1A?style=for-the-badge&logo=pest&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-8892BF?style=for-the-badge&logo=php&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Testcontainers](https://img.shields.io/badge/Testcontainers-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=white)
 
 ---

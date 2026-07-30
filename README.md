@@ -11,11 +11,10 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 ## Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="64" height="64" alt="Next.js" title="Next.js" />
+  <img src="./assets/nextjs.svg" width="64" height="64" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/go-gopher-blue.svg" width="44" alt="Go" title="Go" />
 </p>
-
 ## Sobre mim
 
 Atuo em diferentes camadas do desenvolvimento de software, trabalhando com interfaces, experiência do usuário, APIs, persistência de dados, cache, filas, integrações e processamento assíncrono.

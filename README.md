@@ -13,7 +13,7 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 <p align="center">
   <img src="./assets/nextjs.svg" width="64" height="64" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="64" height="64" alt="NestJS" title="NestJS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="64" height="64" alt="NestJS" title="NestJS" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/go-gopher-blue.svg" width="44" alt="Go" title="Go" />
 </p>

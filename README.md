@@ -1,6 +1,6 @@
 # Olá, eu sou o [Davi Peterson](https://davi-peterson.vercel.app/pt)
 
-Desenvolvedor de software com foco em **Next.js** e **Go**, graduando no 4º período de Análise e Desenvolvimento de Sistemas pela UniNorte e fundador da [SyncForge](https://syncforge-business.vercel.app/).
+Desenvolvedor de software com foco em **Next.js**, **NestJS** e **Go**, graduando no 4º período de Análise e Desenvolvimento de Sistemas pela UniNorte e fundador da [SyncForge](https://syncforge-business.vercel.app/).
 
 Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e soluções para empresas.
 
@@ -13,7 +13,7 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 <p align="center">
   <img src="./assets/nextjs.svg" width="64" height="64" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="64" height="64" alt="NestJS" title="NestJS" />
+  <img src="./assets/nestjs.svg" width="64" height="64" alt="NestJS" title="NestJS" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/go-gopher-blue.svg" width="44" alt="Go" title="Go" />
 </p>

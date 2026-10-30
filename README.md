@@ -15,13 +15,7 @@ Estou no 4º período de Análise e Desenvolvimento de Sistemas na UniNorte.
 ## Tecnologias
 
 <p align="center">
-  <img src="./assets/nextjs.svg" width="64" height="64" alt="Next.js" title="Next.js" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/angular.svg" width="64" height="64" alt="Angular" title="Angular" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/nestjs.svg" width="64" height="64" alt="NestJS" title="NestJS" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./assets/go-gopher-blue.svg" width="44" alt="Go" title="Go" />
+  <img src="./assets/tech-stack.svg" width="860" alt="Next.js e Angular no frontend, NestJS e Go no backend" />
 </p>
 
 ## Sobre mim

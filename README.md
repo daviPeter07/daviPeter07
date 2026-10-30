@@ -8,6 +8,10 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://davi-peterson.vercel.app)
 [![SyncForge](https://img.shields.io/badge/SyncForge-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://syncforge-business.vercel.app/)
 
+<p align="center">
+  <img src="./assets/megabrain-junior.svg" width="420" alt="MegaBrain Junior, mascote do Claude animado" title="MegaBrain Junior" />
+</p>
+
 ## Tecnologias
 
 <p align="center">

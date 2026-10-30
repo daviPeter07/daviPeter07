@@ -1,8 +1,8 @@
 # Olá, eu sou o [Davi Peterson](https://davi-peterson.vercel.app/pt)
 
-Desenvolvedor de software com foco em **Next.js**, **NestJS** e **Go**, graduando no 4º período de Análise e Desenvolvimento de Sistemas pela UniNorte e fundador da [SyncForge](https://syncforge-business.vercel.app/).
+Desenvolvedor de software e fundador da [SyncForge](https://syncforge-business.vercel.app/). Construo aplicações web e produtos digitais de ponta a ponta, com **Next.js** e **Angular** no frontend e **NestJS** e **Go** no backend, em projetos próprios e em soluções para empresas.
 
-Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e soluções para empresas.
+Estou no 4º período de Análise e Desenvolvimento de Sistemas na UniNorte.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/davipeterson/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://davi-peterson.vercel.app)
@@ -17,6 +17,8 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 <p align="center">
   <img src="./assets/nextjs.svg" width="64" height="64" alt="Next.js" title="Next.js" />
   &nbsp;&nbsp;&nbsp;
+  <img src="./assets/angular.svg" width="64" height="64" alt="Angular" title="Angular" />
+  &nbsp;&nbsp;&nbsp;
   <img src="./assets/nestjs.svg" width="64" height="64" alt="NestJS" title="NestJS" />
   &nbsp;&nbsp;&nbsp;
   <img src="./assets/go-gopher-blue.svg" width="44" alt="Go" title="Go" />
@@ -24,11 +26,11 @@ Desenvolvo aplicações web e produtos digitais, atuando em projetos próprios e
 
 ## Sobre mim
 
-Atuo em diferentes camadas do desenvolvimento de software, trabalhando com interfaces, experiência do usuário, APIs, persistência de dados, cache, filas, integrações e processamento assíncrono.
+Trabalho em todas as camadas de uma aplicação: da interface e da experiência do usuário até APIs, banco de dados, cache, filas, integrações e processamento assíncrono.
 
-Tenho experiência com code review e já assumi responsabilidades de liderança técnica tanto no frontend quanto no backend. Já contribuí com decisões de arquitetura, definição de padrões, organização de demandas e apoio técnico aos desenvolvedores durante a construção das soluções.
+Já atuei como líder técnico no frontend e no backend. Nesse papel, faço code review, participo das decisões de arquitetura, defino padrões de código, organizo as demandas e dou suporte aos desenvolvedores durante a entrega.
 
-Atualmente, tenho aprofundado meus estudos em arquitetura de software, com foco em DDD, monólitos modulares, microsserviços e arquitetura orientada a eventos.
+Hoje estou me aprofundando em arquitetura de software, estudando DDD, monólitos modulares, microsserviços e arquitetura orientada a eventos.
 
 ## Contato
 

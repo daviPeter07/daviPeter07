@@ -2,8 +2,6 @@
 
 Desenvolvedor de software e fundador da [SyncForge](https://syncforge-business.vercel.app/). Construo aplicações web e produtos digitais de ponta a ponta, com **Next.js** e **Angular** no frontend e **NestJS** e **Go** no backend, em projetos próprios e em soluções para empresas.
 
-Estou no 4º período de Análise e Desenvolvimento de Sistemas na UniNorte.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/davipeterson/)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://davi-peterson.vercel.app)
 [![SyncForge](https://img.shields.io/badge/SyncForge-111827?style=for-the-badge\&logo=vercel\&logoColor=white)](https://syncforge-business.vercel.app/)

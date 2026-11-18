@@ -1,0 +1,9 @@
+show: [summary, languages, contributions, streaks]
+
+count:
+  private: true
+  orgs: true
+
+look:
+  style: classic
+  color: github

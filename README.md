@@ -31,6 +31,29 @@ Hoje estou me aprofundando em arquitetura de software, estudando DDD, monólitos
 * Portfólio: [davi-peterson.vercel.app](https://davi-peterson.vercel.app)
 * SyncForge: [syncforge-business.vercel.app](https://syncforge-business.vercel.app/)
 
+## Estatísticas
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/summary-dark.svg">
+  <img src="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/summary-light.svg" width="400" alt="Estatísticas no GitHub">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/languages-dark.svg">
+  <img src="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/languages-light.svg" width="400" alt="Linguagens mais usadas">
+</picture>
+</p>
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/contributions-dark.svg">
+  <img src="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/contributions-light.svg" width="400" alt="Contribuições notáveis">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/streaks-dark.svg">
+  <img src="https://raw.githubusercontent.com/daviPeter07/daviPeter07/cards/streaks-light.svg" width="400" alt="Sequências de contribuição">
+</picture>
+</p>
+
 ---
 
 <div align="center">
